@@ -9,7 +9,11 @@ title: Introduction
 It is compatible with Power BI Desktop and can also be used in [PowerBI.com](http://powerbi.com/) for online visualizations.
 
 :::warning ⚠️WARNING
-The Power BI visual is still in the **early stages of development**. We welcome your feedback!
+The Power BI visual is still in the **early stages of development**.
+
+It is not yet possible to create 3D Viewer Visuals of private Speckle projects.
+
+We welcome your feedback!
 :::
 
 ## Features
